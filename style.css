@@ -1,0 +1,40 @@
+body{
+background:#6f4e37;
+font-family:Segoe UI,sans-serif;
+}
+
+.container{
+background:#fffaf4;
+width:90%;
+margin:40px auto;
+padding:25px;
+border-radius:12px;
+}
+
+.center{text-align:center;}
+
+.btn{
+background:#8b6b4f;
+color:white;
+padding:10px 16px;
+border-radius:8px;
+text-decoration:none;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+th{
+background:#e8d8c3;
+padding:10px;
+}
+
+td{
+padding:10px;
+border-bottom:1px solid #ddd;
+}
+
+td.aksi{text-align:center;}
+td.aksi a{font-size:20px;margin:0 5px;}
